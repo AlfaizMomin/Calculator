@@ -24,6 +24,9 @@ public class CalculatorUI {
     private static final int BUTTON_HEIGHT = 70;
     private static final int MARGIN_X = 20;
     private static final int MARGIN_Y = 60;
+    private static final int MARGIN_Z = 60;
+    private static final int MARGIN_P = 60;
+    private static final int MARGIN_Q = 60;
 
     private final JFrame window;
     private JComboBox<String> comboCalculatorType;
